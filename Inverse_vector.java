@@ -1,4 +1,4 @@
-//Inverse of the vector
+//Inverse of a vector
 public class Exerc1 {
 
     public static void main(String[] args) {

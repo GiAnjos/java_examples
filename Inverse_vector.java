@@ -1,4 +1,4 @@
-// programa que inverte o vetor
+//Inverse of the vector
 public class Exerc1 {
 
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class Exerc1 {
             System.out.println(vet[i]);
         }
 
-        // Bloco que inverte o vetor
+
         j = 5 - 1;
         i = 0;
 
